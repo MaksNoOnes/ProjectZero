@@ -1,0 +1,45 @@
+.container {
+	width: 1400px;
+	height: 402px;
+}
+
+.tittle {
+	width: 510px;
+	height: 28px;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+ padding-top: 70px;
+ padding-bottom: 80px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 70px;
+}
+
+.col-12 {
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: 700;
+	margin: 0 auto;
+	width: 122px;
+	text-align: center;
+	display: table;
+}
+
+
+
+.text {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 122px;
+
+}
+
+.img	{
+	margin-bottom: 5px;
+	height: 81px;
+}

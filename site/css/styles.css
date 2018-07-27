@@ -1,0 +1,21 @@
+body {
+background: #999;
+}
+h2 {
+text-align: center;
+text-decoration: underline;
+color: rgb(15, 41, 145);
+}
+h1 {
+	text-align: center;
+color: rgb(71, 145, 71) ;
+
+}
+.text {
+	color: rgb(6, 3, 18)
+font-size: 25px;
+font-weight: bold;
+}
+h1 {
+position: fixed;
+}
